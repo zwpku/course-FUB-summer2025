@@ -32,6 +32,6 @@
 5. conda
 
 ```
-    https://www.anaconda.com/docs/getting−started/miniconda/install#linux
+    https://www.anaconda.com/docs/getting−started/miniconda/install
 ```
 
