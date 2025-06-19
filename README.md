@@ -13,5 +13,6 @@ Lecture notes can be found on this [page](https://weizhang.userpage.fu-berlin.de
 | May 23, 2025   | [05_eigenvalue_msm_and_nn.ipynb](05_eigenvalue_msm_and_nn.ipynb) | Markov state models, solving eigenvalue problem by training networks | 
 | May 30, 2025   | [06_diffusion_model_1d.ipynb](06_diffusion_model_1d.ipynb) <br/> [06_datasets.ipynb](06_datasets.ipynb) | score-based diffusion models <br/> 2d datasets |
 | June 13, 2025   | [07_flow_model.ipynb](07_flow_model.ipynb) | flow-matching generative models |
+| June 20, 2025   | [08_ddpm.ipynb](08_ddpm.ipynb) <br/> [08_normalizing_flows.ipynb](08_normalizing_flows.ipynb) | Denoising diffusion probabilistic models <br/> normalizing flows |
 
 
