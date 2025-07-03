@@ -15,5 +15,6 @@ Lecture notes can be found on this [page](https://weizhang.userpage.fu-berlin.de
 | June 13, 2025   | [07_flow_model.ipynb](07_flow_model.ipynb) | flow-matching generative models |
 | June 20, 2025   | [08_ddpm.ipynb](08_ddpm.ipynb) <br/> [08_normalizing_flows.ipynb](08_normalizing_flows.ipynb) | Denoising diffusion probabilistic models <br/> normalizing flows |
 | June 27, 2025   | [09_kmeans.ipynb](09_kmeans.ipynb) <br/> [09_pca.ipynb](09_pca.ipynb) <br/> [09_autoencoder_2d.ipynb](09_autoencoder_2d.ipynb) <br/> [09_autoencoder_MNIST.ipynb](09_autoencoder_MNIST.ipynb) | k-means clustering <br/> PCA <br/> autoencoder on Mueller-Brown potential <br/> autoencoder on MNIST|
+| July 04, 2025   | [10_MEP_1.ipynb](10_MEP_1.ipynb) <br/> [10_MEP_2.ipynb](10_MEP_2.ipynb) | string method for Mueller-Brown potential <br/> string method for potential with two pathways |
 
 
